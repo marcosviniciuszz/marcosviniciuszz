@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working With .NET, Laravel and VueJS 
+- 🔭 I’m currently working With .NET and Laravel  
 - ⚡ Fun fact: I love FPS games
 
 ##
