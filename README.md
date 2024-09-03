@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🔭 Currently I'm working mainly with .NET and NodeJS
+- 📚 I'm studying Go
 - ⚡ Fun fact: I love FPS games and Formula 1
 
 ##
