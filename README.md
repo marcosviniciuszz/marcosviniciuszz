@@ -6,9 +6,9 @@
 <p align="center">I've been working as a software developer for over 3 years, focusing on back-end development. I have a solid foundation in software development concepts and I'm always learning more about systems, architectures and new technologies.</p>
 <br>
 
-- 🔭 Currently I'm working mainly with .NET and Laravel on my job. 
+- 🔭 Currently I'm working mainly with .NET, NodeJS and Laravel on my job. 
 - 🌐 In my side project i use NodeJS and other tools.
-- ⚡ Fun fact: I love FPS games, Formula 1 and dystopian books.
+- ⚡ Fun fact: I love FPS games, Formula 1 and Books.
 
 <br>
 
