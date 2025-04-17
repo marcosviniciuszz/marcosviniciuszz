@@ -7,12 +7,11 @@
 <br>
 
 - 🔭 Currently I'm working mainly with NodeJS and Laravel on my job. 
-- 💡 I continue studying my stacks and Golang.
 - 🌐 In my side project i use NodeJS and other tools.
 - ⚡ Fun fact: I love FPS games, Formula 1 and Books.
 
 <br>
 
-## 🛠️ Skills
-[![My Skills](https://skillicons.dev/icons?i=nodejs,laravel,mysql,mongodb,redis,aws,kafka,github)](https://skillicons.dev)<br><br>
+## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,laravel,mysql,mongodb,redis,kafka,github)](https://skillicons.dev)<br><br>
 
